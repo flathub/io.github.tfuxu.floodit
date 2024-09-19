@@ -1,7 +1,7 @@
 {
   "app-id" : "io.github.tfuxu.floodit",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "46",
+  "runtime-version" : "47",
   "sdk" : "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.golang"
@@ -56,7 +56,7 @@
               {
                   "type" : "git",
                   "url" : "https://github.com/tfuxu/floodit.git",
-                  "commit" : "5d2009fad60a7f1ded41e9e162183dfebc6433f6"
+                  "commit" : "b6265fbccdb3010aa45777975f68f0f720ff15d6"
               },
               "go.mod.yml"
           ]
