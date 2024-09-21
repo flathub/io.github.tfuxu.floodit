@@ -56,7 +56,7 @@
               {
                   "type" : "git",
                   "url" : "https://github.com/tfuxu/floodit.git",
-                  "commit" : "b6265fbccdb3010aa45777975f68f0f720ff15d6"
+                  "commit" : "49b5364eaec211f0450b7743d22d0d7f9e7a0199"
               },
               "go.mod.yml"
           ]
