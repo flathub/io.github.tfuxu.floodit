@@ -1,7 +1,7 @@
 {
   "app-id" : "io.github.tfuxu.floodit",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "47",
+  "runtime-version" : "49",
   "sdk" : "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.golang"
@@ -34,8 +34,8 @@
         "sources" : [
             {
                 "type" : "git",
-                "url" : "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-                "tag" : "v0.14.0"
+                "url" : "https://gitlab.gnome.org/GNOME/blueprint-compiler",
+                "tag" : "v0.18.0"
             }
         ]
       },
