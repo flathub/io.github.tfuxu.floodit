@@ -8,8 +8,7 @@
   ],
   "command" : "floodit",
   "build-options": {
-    "append-path": "/usr/lib/sdk/golang/bin",
-    "build-args": ["--filesystem=home"]
+    "append-path": "/usr/lib/sdk/golang/bin"
   },
   "finish-args" : [
       "--share=ipc",
