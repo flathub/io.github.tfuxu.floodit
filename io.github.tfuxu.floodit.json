@@ -27,7 +27,8 @@
               {
                   "type" : "git",
                   "url" : "https://github.com/tfuxu/floodit.git",
-                  "tag" : "2.0.0"
+                  "tag" : "2.0.1",
+                  "commit": "971af368f0ae341039c048ea87f813b6cc7dd17a"
               },
               "go.mod.yml"
           ]
