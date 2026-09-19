@@ -9,7 +9,7 @@ flatpak-builder --install --user --force-clean repo/ io.github.tfuxu.floodit.jso
 
 ## How to update dependencies
 
-1. Use `flatpak-go-mod` in the root of the Dissent repository:
+1. Use `flatpak-go-mod` in the root of the Flood It repository:
 ```sh
 go run github.com/dennwc/flatpak-go-mod@latest .
 ```
